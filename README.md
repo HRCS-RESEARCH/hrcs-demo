@@ -13,3 +13,7 @@ https://www.hrcscloudtech.com
 
 
 Thanks!
+
+now we check git staus cmd
+
+<command 2024>
